@@ -18,7 +18,7 @@
 	},
 	"devDependencies": {
 		"@capacitor/android": "next",
-		"@capacitor/ios": "next",
+		"@capacitor/ios": "^3.4.3",
 		"rimraf": "^3.0.0",
 		"typescript": "^3.9.5 || ^4.0.0"
 	},
